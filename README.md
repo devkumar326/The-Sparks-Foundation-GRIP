@@ -1,6 +1,8 @@
 # The Sparks Foundation Internship
 ## Role : Data Science and Business Analysis Intern
-## Tasks 1 : 
+## Task 1 : 
 * Prediction using Supervised ML 
-## Tasks 2:
+## Task 2:
 * Prediction using Unsupervised ML
+## Task 3:
+* Exploratory Data Analysis on Superstore Data
